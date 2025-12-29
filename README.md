@@ -2,7 +2,7 @@
 
 Download [DreamBank](https://dreambank.net) datasets directly from Python.
 
-If you use any of these datasets for publication, cite the original DreamBank dataset reference:
+If you use any of these datasets for publication, cite the original DreamBank dataset paper:
 
 > Domhoff, G. W., & Schneider, A. (2008). Studying dream content using the archive and search engine on DreamBank.net. _Consciousness and Cognition_, 17(4), 1238-1247. doi:[10.1016/j.concog.2008.06.010](https://doi.org/10.1016/j.concog.2008.06.010)
 
