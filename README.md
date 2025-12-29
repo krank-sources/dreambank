@@ -18,3 +18,11 @@ Goes beyond other projects by
 1. More careful extraction of metadata from dream reports (e.g., gets dates from individual dream reports when present).
 2. Grabs additional info about each dataset (including second level of detail if present).
 3. Includes more (some are missing in other repos)
+
+## Versioning
+
+Follows semver major.minor.patch structure where:
+
+* Major releases involve changes to HTML output
+* Minor releases involve changes to tabular DreamBank output
+* Patch releases involve changes to sub-corpora output (or any other non-functional changes)
